@@ -9,4 +9,4 @@ Makes so-called shell archives out of many files
 ## Downloads
 [https://ftp.gnu.org/gnu/sharutils/](https://ftp.gnu.org/gnu/sharutils/)
 
-![Screenshot](https://screenshots.debian.net/package/sharutils)
+![Screenshot](https://screenshots.debian.net/screenshots/000/011/740/large.png)
